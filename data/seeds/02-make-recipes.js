@@ -16,7 +16,6 @@ const step_ingredients = [
   {step_id: 4, ingredient_id: 3, quantity: 1.5}
 ]
 
-
 const steps = [
   {step_text: 'Boil water', step_number: 1, recipe_id: 1},
   {step_text: 'Put in pasta and let cook', step_number: 2, recipe_id: 1},
